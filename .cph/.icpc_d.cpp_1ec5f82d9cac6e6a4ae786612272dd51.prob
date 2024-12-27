@@ -1,0 +1,1 @@
+{"name":"Local: icpc_d","url":"d:\\vs code\\icpc_d.cpp","tests":[{"id":1731145295667,"input":"3\n57 13 60\n103 17 110\n1 1 1","output":"32/1\n1176/23\n1/12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs code\\icpc_d.cpp","group":"local","local":true}

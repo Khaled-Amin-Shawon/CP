@@ -1,0 +1,1 @@
+{"name":"Local: fruitIntoTheBusket","url":"d:\\vs code\\Algorithum\\Sliding Windoor and 2 pointer\\fruitIntoTheBusket.cpp","tests":[{"id":1722514992311,"input":"11 2\n3 3 3 1 2 1 1 2 3 3 4","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs code\\Algorithum\\Sliding Windoor and 2 pointer\\fruitIntoTheBusket.cpp","group":"local","local":true}

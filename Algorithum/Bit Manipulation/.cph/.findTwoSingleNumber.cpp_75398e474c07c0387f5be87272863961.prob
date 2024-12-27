@@ -1,0 +1,1 @@
+{"name":"Local: findTwoSingleNumber","url":"d:\\vs code\\Algorithum\\Bit Manipulation\\findTwoSingleNumber.cpp","tests":[{"id":1721843416849,"input":"10\n2 2 5 5 6 6 3 9 9 7","output":"The single number are 7 and 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs code\\Algorithum\\Bit Manipulation\\findTwoSingleNumber.cpp","group":"local","local":true}

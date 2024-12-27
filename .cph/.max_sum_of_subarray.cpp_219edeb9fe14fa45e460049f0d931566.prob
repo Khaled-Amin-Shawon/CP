@@ -1,0 +1,1 @@
+{"name":"Local: max_sum_of_subarray","url":"d:\\vs code\\max_sum_of_subarray.cpp","tests":[{"id":1685704637195,"input":"1\n4 2\n100 200 300 400","output":"700"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs code\\max_sum_of_subarray.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: wordLeanth","url":"d:\\vs code\\Algorithum\\Bit Manipulation\\wordLeanth.cpp","tests":[{"id":1722030409689,"input":"6           \nabcw baz foo bas xlfn alrdef","output":"Answer: 16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs code\\Algorithum\\Bit Manipulation\\wordLeanth.cpp","group":"local","local":true}

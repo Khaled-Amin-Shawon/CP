@@ -1,0 +1,1 @@
+{"name":"Local: countTheDistincPair","url":"d:\\vs code\\STL Learning\\Pair\\countTheDistincPair.cpp","tests":[{"id":1722188499551,"input":"3\n5 \n1 5 4 1 2\n0\n3\n1 1 1\n0\n3 \n1 5 3\n2","output":"1\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs code\\STL Learning\\Pair\\countTheDistincPair.cpp","group":"local","local":true}

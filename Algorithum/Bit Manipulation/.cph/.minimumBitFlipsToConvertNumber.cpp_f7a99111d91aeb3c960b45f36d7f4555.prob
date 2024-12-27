@@ -1,0 +1,1 @@
+{"name":"Local: minimumBitFlipsToConvertNumber","url":"d:\\vs code\\Algorithum\\Bit Manipulation\\minimumBitFlipsToConvertNumber.cpp","tests":[{"id":1721771629753,"input":"7 8","output":"result: 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs code\\Algorithum\\Bit Manipulation\\minimumBitFlipsToConvertNumber.cpp","group":"local","local":true}
